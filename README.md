@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="" width="100%"/>
+  <img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project1%20(1).png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Jacque</h1>
 <h3 align="center">A content editor from Texas.</h3>
