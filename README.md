@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Jacque</h1>
 <h3 align="center">A content editor from Texas.</h3>
-<h4 align="center">Hi my name is Jacque Malcolm a Content Editor based out of Dallas Fort Worth TX. I enjoy combining the art of design and programming while solving problems and learning new things. I got started on this journey to satisfy my burning curiosity for web development. I found it very intriguing and wanted to learn more so I pursued the training and knowledge that I needed to become a content editor. That curiosity then opened a door that could never be shut. When I learned how to build my first website, I realized I found something that gave me the freedom, versatility, and the feeling of accomplishment that I was looking for in my work.  When I am not coding I can be found hanging out with family and friends, traveling, or dancing Zumba. </h4>
+<h4 align="left">Hi my name is Jacque Malcolm a Content Editor based out of Dallas Fort Worth TX. I enjoy combining the art of design and programming while solving problems and learning new things. I got started on this journey to satisfy my burning curiosity for web development. I found it very intriguing and wanted to learn more so I pursued the training and knowledge that I needed to become a content editor. That curiosity then opened a door that could never be shut. When I learned how to build my first website, I realized I found something that gave me the freedom, versatility, and the feeling of accomplishment that I was looking for in my work.  When I am not coding I can be found hanging out with family and friends, traveling, or dancing Zumba. </h4>
 
 <hr>
 
