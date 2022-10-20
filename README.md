@@ -86,7 +86,7 @@
                 <h3 align="center">MIISSCALI FASHION</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project3.png?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
