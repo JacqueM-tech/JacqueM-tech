@@ -65,7 +65,7 @@
 				<h3 align="center">El Paso's Thrift Books</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project2.png?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project2.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
