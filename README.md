@@ -103,10 +103,10 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Profile Website</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project4.png?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -118,8 +118,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>WordPress</strong></p>
+		    <p>WordPress Website</p>
                 </div>	
             </td>
         </tr>
