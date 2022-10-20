@@ -40,7 +40,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">Camfinancials</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project1.png?raw=true" alt="project 1" height="100%" />
@@ -57,12 +57,12 @@
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-						Description goes here
+						Tax services website created for a client.
 					</p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">El Paso's Thrift Books</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project2.png?raw=true" alt="project 2" height="100%" />
@@ -77,13 +77,13 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>Shopify & Canva</strong></p>
+					<p>Online book store created for a client</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">MIISSCALI FASHION</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
                         <img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project3.png?raw=true" alt="project 3" height="100%" />
@@ -98,8 +98,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Shopify & Canva</strong></p>
+		    <p>Online clothing store creates for a client</p>
                 </div>
             </td>
             <td width="50%">
