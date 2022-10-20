@@ -17,7 +17,7 @@
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
-<!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/> -->
+                     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="css3" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>
@@ -43,7 +43,7 @@
 				<h3 align="center">Camfinancials</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/JacqueM-tech/JacqueMalcolm/blob/main/assets/project1.png?raw=true" alt="project 1" height="100%" />
+						<img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
