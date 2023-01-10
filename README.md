@@ -83,20 +83,20 @@
             <td width="50%">
                 <h3 align="center">Face Book Clone</h3>
                 <div align="center" >  
-                    <a href='https://jacquem-tech.github.io/facebook-clone/' target="_blank">
+                    <a href='https://github.com/JacqueM-tech/facebook-clone' target="_blank">
                         <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://jacquem-tech.github.io/facebook-clone/" target="_blank">
+                        <a href="https://github.com/JacqueM-tech/facebook-clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 <!-- 						<a href="https://jacquem-tech.github.io/facebook-clone/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a> -->
                     </p>
-                    <p><strong>Shopify </strong></p>
+                    <p><strong>HTML & CSS</strong></p>
 		    <p></p>
                 </div>
             </td>
