@@ -81,7 +81,7 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Face Book Clone</h3>
+                <h3 align="center">Facebook Clone</h3>
                 <div align="center" >  
                     <a href='https://github.com/JacqueM-tech/facebook-clone' target="_blank">
                         <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
