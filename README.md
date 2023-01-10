@@ -48,9 +48,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://camfinancials.net" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						
 						<a href="https://camfinancials.net" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
