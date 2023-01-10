@@ -42,7 +42,7 @@
 			<td width="50%">
 				<h3 align="center">Camfinancials</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://camfinancials.net/' target="_blank">
 						<img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
