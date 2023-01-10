@@ -73,7 +73,7 @@
 						<a href="https://eptbookstore.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://eptbookstore.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
@@ -86,7 +86,7 @@
                 <h3 align="center">MIISSCALI FASHION</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project4.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -98,15 +98,15 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>Shopify & Canva</strong></p>
-		    <p>Online clothing store creates for a client</p>
+                    <p><strong>Shopify </strong></p>
+		    <p></p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Profile Website</h3>
+                <h3 align="center">MIISSCALI FASHION</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
+                        <img src="https://github.com/JacqueM-tech/JacqueM-tech/blob/main/assets/project3.jpg?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -118,8 +118,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>WordPress</strong></p>
-		    <p>WordPress Website</p>
+                    <p><strong>Shopify Store</strong></p>
+		    <p>Online clothing store created for a client</p>
                 </div>	
             </td>
         </tr>
