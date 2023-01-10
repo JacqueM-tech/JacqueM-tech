@@ -48,8 +48,7 @@
 					<br>
 					<br>
 					<p>
-					
-						<a href="https://camfinancials.ne" target="_blank">
+						<a href="https://camfinancials.net" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://camfinancials.net" target="_blank">
@@ -57,9 +56,7 @@
 						</a>
 					</p>
 					<p><strong>WordPress Website</strong></p>
-          <p>
-						Tax services website created for a client.
-					</p>
+          				<p>Tax services website created for a client.</p>
 				</div>
 			</td>
 			<td width="50%">
