@@ -109,10 +109,10 @@
                     <br>
                     <br>
                     <p>
-<!--                         <a href="shop.jpg" target="_blank">
+<!--                         <a href="JacqueM-tech/assets/shop.jpg" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>   -->
-						<a href="shop.jpg" target="_blank">
+						<a href="JacqueM-tech/assets/shop.jpg" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
